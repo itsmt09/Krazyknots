@@ -23,11 +23,11 @@ cd ecommerce-website
 open index.html
 
 
-#Contributing
+# Contributing
 
 If you would like to contribute to this project, please fork the repository and submit a pull request.
 
 
-#Credits
+# Credits
 
 This project was built by Manish Tekam.
