@@ -20,10 +20,6 @@ git clone https://github.com/itsmt09/Krazyknots.git
 ```
 
 ```
-cd krazyknots
-```
-
-```
 cd index.html
 ```
 
