@@ -31,4 +31,8 @@ If you would like to contribute to this project, please fork the repository and 
 
 ## Authors
 
-This project was built by [@itsmt09](https://github.com/itsmt09) .
+This project was built by [@itsmt09](https://github.com/itsmt09).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
