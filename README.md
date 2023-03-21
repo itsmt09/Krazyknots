@@ -1,6 +1,6 @@
 # Krazyknots E-Commerce Website frontend
 
-This is an E-Commerce website built with HTML, CSS, and JavaScript. The website allows users browse products, add products to cart, and checkout.
+This is an Responsive E-Commerce website built with HTML, CSS, and JavaScript. The website allows users browse products, add products to cart, and checkout.
 
 ## Requirements
 
@@ -29,6 +29,6 @@ cd index.html
 If you would like to contribute to this project, please fork the repository and submit a pull request.
 
 
-## Credits
+## Authors
 
-This project was built by @itsmt09 .
+This project was built by [@itsmt09](https://github.com/itsmt09) .
