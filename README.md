@@ -1,6 +1,6 @@
 # Krazyknots E-Commerce Website frontend
 
-This is an Responsive E-Commerce website built with HTML, CSS, and JavaScript. The website allows users browse products, add products to cart, and checkout.
+This is an Responsive E-Commerce website built with HTML, CSS, and JavaScript. The website allows users to browse products, add products to cart, and checkout.
 
 ## Requirements
 
